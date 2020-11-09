@@ -33,7 +33,7 @@ There are multiple ways to develop chatbot mainly Natural Language Processing an
 
 
 
-# Restuarant-Finder:
+# Restaurant-Finder:
 
 Problem Statement: Develop a software which can find/suggest restaurants based on preference of location and cuisine using Python3 and ZomatoAPI.
 
