@@ -2,7 +2,7 @@
 A chatbot to find restaurant based on location and cuisine(s) using Python3 and ZomatoAPI
 
 
-######What is Chatbot?
+###### What is Chatbot?
 
 A chatbot is a an Artificial Intelligence developed piece of software to gauge consumer’s needs and then assist them to perform a particular task like a commercial transaction, hotel booking, form submission etc . Today almost every company has a chatbot deployed to engage with the users. Some of the ways in which companies are using chatbots are:
 
@@ -13,7 +13,7 @@ A chatbot is a an Artificial Intelligence developed piece of software to gauge c
 The possibilities are (almost) limitless.
 
 
-#######How do Chatbots work?
+###### How do Chatbots work?
 
 There are broadly two variants of chatbots: Rule-Based and Self-learning.
 
@@ -25,7 +25,7 @@ i) In retrieval-based models, a chatbot uses some heuristic to select a response
 ii) Generative bots can generate the answers and not always replies with one of the answers from a set of answers. This makes them more intelligent as they take word by word from the query and generates the answers.
 
 
-######How to design Chatbot?
+###### How to design Chatbot?
 
 Link- https://docs.google.com/document/d/1r_fHwzD141LCXd7pjf5lnXUW4QE4gb5mNY9-6nOFxsg/edit?usp=sharing
 
@@ -33,13 +33,13 @@ There are multiple ways to develop chatbot mainly Natural Language Processing an
 
 
 
-#Restuarant-Finder:
+# Restuarant-Finder:
 
 Problem Statement: Develop a software which can find/suggest restaurants based on preference of location and cuisine using Python3 and ZomatoAPI.
 
 To check this prototype: Download and run the restaurant_bot.py on any Python IDLE in your local system. 
 
-##How to developed it?
+## How to developed it?
 
 1) Get an access code of Zomato API: 
 
@@ -57,7 +57,7 @@ Open Python IDLE and using access code and url write functions and data which ar
 The code is well documented in the .py file. 
 
 
-######Limitations:
+###### Limitations:
 
 - It can be implemented using NLP for better results and understanding variations in user's input.
 - Can be deployed using SlackAPI or on Whatsapp as it is just a prototype. 
